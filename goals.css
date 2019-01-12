@@ -35,7 +35,6 @@ body {
 }
 
 #rightIcon > i{
-	position: absolute;
 	right: 0px;
 }
 
@@ -46,4 +45,7 @@ body {
 
 .additionalLead{
 	width: 50%;
+}
+.descripPhoto{
+	text-align: center;
 }
